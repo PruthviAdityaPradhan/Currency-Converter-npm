@@ -1,0 +1,26 @@
+{
+  "name": "currency-converter-pap",
+  "version": "1.0.0",
+  "description": "a currency converter package",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PruthviAdityaPradhan/Currency-Converter-npm.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Pruthvi Aditya Pradhan",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/PruthviAdityaPradhan/Currency-Converter-npm/issues"
+  },
+  "homepage": "https://github.com/PruthviAdityaPradhan/Currency-Converter-npm#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
